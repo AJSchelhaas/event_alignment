@@ -4,14 +4,14 @@ The data and material used in my master thesis project on event alignment in foo
 ## evaluation_dataset.tsv
 This file contains manually event aligned sentence pairs from match 2002833. This file was used as the evaluation file for the project.  
 
-## match_reports_dataset.zip
+## match_reports_dataset.zip (not made public)
 This zipe file contains the collection of match report text files. Each folder has the UEFA match ID.  
 Within each folder there are text files. The name of the file indicates the language of the match report.  
 * NL indicates Dutch match reports  
 * DE indicates German match reports  
 * EN indidicates English match reports 
 
-## events_all.zip
+## events_all.zip (not made public)
 This zip file contains the structured data files that the model uses to create event alignment pairs.
 
 ## Master_Thesis_Main_Model.ipynb
